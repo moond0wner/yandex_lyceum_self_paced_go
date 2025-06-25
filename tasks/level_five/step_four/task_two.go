@@ -1,3 +1,5 @@
+// "Абвгд"
+
 package main
 
 import (
